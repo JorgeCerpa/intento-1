@@ -1,0 +1,22 @@
+ion-title{
+    color: #4a90c983;
+    font-family: Coco Gothic;
+    font-size: 20px;
+}
+ion-subtitle{
+    font-family: Lucida Console;
+}
+ion-grid{
+    .top{
+        text-align: center;
+        font-family: Coco Gothic;
+        color: rgb(134, 134, 134);
+        font-weight: bold;
+        font-size: 14px
+    }
+    .info{
+        text-align: center;
+        font-family: Poppins;
+        color: rgb(0, 0, 0);
+    }
+}
